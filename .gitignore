@@ -1,0 +1,43 @@
+*.pkl
+__pycache__/
+*.pyc
+
+# Data & artifacts (never commit)
+data/
+checkpoints/
+results/
+site/
+
+# Model weights and large data files
+*.pt
+*.h5ad
+
+# Planning & project management (internal)
+.planning/
+
+# Documentation, paper, notebooks (not for repo)
+docs/
+paper/
+figures/
+notebooks/
+logs/
+
+# OMC & Claude state (session-local)
+.omc/
+.claude/
+.pytest_cache/
+
+# Tests (not for public repo)
+tests/
+
+# Egg info
+src/tglue.egg-info/
+
+# Root-level documentation & config (not for repo)
+/*.md
+/*.toml
+/*.ini
+/*.yml
+
+# OS files
+.DS_Store

@@ -1,0 +1,16 @@
+Fibroblasts	Fibroblasts_markers	COL1A1	COL3A1	FBN1	DCN	LUM
+Keratinocytes	Keratinocytes_markers	KRT1	KRT5	KRT14	KRT10	DSG1
+CD4_T_cells	CD4_T_cells_markers	CD3D	CD3E	CD4	IL7R	CCR7
+Cytotoxic_T_cells	Cytotoxic_T_cells_markers	CD3D	CD8A	CD8B	GZMB	NKG7
+Vascular_endothelial	Vascular_endothelial_markers	CLDN5	PECAM1	VWF	CD34	KDR
+Pericytes	Pericytes_markers	PDGFRB	CSPG4	RGS5	ACTA2	DES
+Macrophages	Macrophages_markers	CD68	CD163	CD14	FCGR3A	MS4A7
+Neutrophils	Neutrophils_markers	FCGR3B	CSF3R	CEACAM8	CXCR2	S100A8
+B_cells	B_cells_markers	CD19	MS4A1	CD79A	CD79B	BANK1
+Melanocytes	Melanocytes_markers	MLANA	TYR	TYRP1	DCT	PMEL
+Vascular_smooth_muscle	Vascular_smooth_muscle_markers	ACTA2	MYH11	TAGLN	CNN1	CALD1
+Schwann_cells	Schwann_cells_markers	SOX10	S100B	MPZ	MBP	PMP22
+Adipocytes	Adipocytes_markers	FABP4	ADIPOQ	LEP	PLIN1	LPL
+Sweat_gland_secretory	Sweat_gland_secretory_markers	AQP5	SCGB2A1	MUC1	PIP	DCD
+Lymphatic_endothelial	Lymphatic_endothelial_markers	PROX1	LYVE1	FLT4	PDPN	CLDN5
+Mast_cells	Mast_cells_markers	TPSAB1	TPSB2	KIT	FCER1A	MS4A2

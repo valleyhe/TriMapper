@@ -1,0 +1,5 @@
+Neurons	Neurons_markers	NEUROD1	MAP2	DCX	SYT1	SNAP25	RBFOX3
+Astrocytes	Astrocytes_markers	GFAP	AQP4	SLC1A2	ALDH1L1	GJA1
+Oligodendrocytes	Oligodendrocytes_markers	MBP	MOG	MOBP	PLP1	OLIG1	OLIG2
+Microglia	Microglia_markers	AIF1	CX3CR1	CD68	P2RY12	TREM2
+Endothelial	Endothelial_markers	CLDN5	FLT1	KDR	PECAM1	SLC2A1

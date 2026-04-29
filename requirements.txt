@@ -1,0 +1,38 @@
+# TCM2CellNet - Triple-Modal Integration Framework
+# Python >= 3.10
+
+# Deep Learning
+torch==2.5.1
+torch-geometric==2.7.0
+
+# Single-cell & Spatial
+scanpy==1.11.5
+anndata==0.11.4
+squidpy==1.6.5
+
+# Scientific Computing
+numpy==2.2.6
+pandas==2.3.3
+scipy==1.15.3
+scikit-learn==1.7.2
+scikit-image==0.25.2
+
+# Optimal Transport
+POT==0.9.6
+
+# Visualization
+matplotlib==3.10.8
+seaborn==0.13.2
+umap-learn==0.5.11
+
+# Imaging
+Pillow==10.2.0
+
+# Bulk RNA-seq Analysis
+gseapy==1.1.9
+
+# Storage
+zarr==2.18.3
+
+# Logging
+tensorboard==2.20.0
